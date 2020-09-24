@@ -585,6 +585,7 @@
 			<Item Name="Numeric Alarm Settings Cluster.ctl" Type="VI" URL="../Tag VIs/Numeric Alarm Settings Cluster.ctl"/>
 			<Item Name="Main SubVIs.lvlib" Type="Library" URL="../subVIs/Main SubVIs.lvlib"/>
 			<Item Name="VICI M6 M50 Party Mode.lvlib" Type="Library" URL="../VICI M50 Party Mode/VICI M6 M50 Party Mode.lvlib"/>
+			<Item Name="Masterflex 75211.lvlib" Type="Library" URL="../Masterflex 75211/Masterflex 75211.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FAST Application" Type="EXE">
