@@ -35,6 +35,7 @@
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="Close.vi" Type="VI" URL="../Close.vi"/>
 	<Item Name="Initialize.vi" Type="VI" URL="../Initialize.vi"/>
+	<Item Name="Ismatec ISM831C Test Program.vi" Type="VI" URL="../Ismatec ISM831C Test Program.vi"/>
 	<Item Name="Ismatech Settings Cluster.ctl" Type="VI" URL="../Controls/Ismatech Settings Cluster.ctl"/>
 	<Item Name="Pause.vi" Type="VI" URL="../Pause.vi"/>
 	<Item Name="Pump Status.vi" Type="VI" URL="../Pump Status.vi"/>
